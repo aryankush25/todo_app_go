@@ -7,5 +7,5 @@ This is a simple Todo API implemented in Go using the Gin framework.
 To run the project, use the following command:
 
 ```sh
-go run main.go
+go run .
 ```
